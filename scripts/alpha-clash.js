@@ -39,7 +39,7 @@ function handleKeyboardKeyUpEvent(event) {
 
 
 
-        // ----------------------------------------------------------
+        // ---------------------------------------------------------- 
         // update score:
         // const currentScoreElement = document.getElementById('current-score');
         // const currentScoreText = currentScoreElement.innerText;
